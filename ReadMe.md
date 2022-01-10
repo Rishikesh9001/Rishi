@@ -1,6 +1,8 @@
 Project Name : Heart Disease Analysis
 Table Contents :
 	1) Age: age of the patient [years]
+	
+	
 	2) Sex: sex of the patient [M: Male, F: Female]
 	3) ChestPainType: chest pain type [TA: Typical Angina, ATA: Atypical 	Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
 	4) RestingBP: resting blood pressure [mm Hg]
