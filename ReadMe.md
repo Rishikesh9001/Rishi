@@ -1,8 +1,8 @@
 Project Name : Heart Disease Analysis
 Table Contents :
+
+
 	1) Age: age of the patient [years]
-	
-	
 	2) Sex: sex of the patient [M: Male, F: Female]
 	3) ChestPainType: chest pain type [TA: Typical Angina, ATA: Atypical 	Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
 	4) RestingBP: resting blood pressure [mm Hg]
@@ -16,6 +16,8 @@ Table Contents :
 	12) HeartDisease: output class [1: heart disease, 0: Normal]
 
 Pandas Methods which are used in these project :
+
+
 	. head(),tail()
 	. isna(),sum()
 	. info()
@@ -24,6 +26,8 @@ Pandas Methods which are used in these project :
 	. quantile()
 
 Graph which are used : (plotting i have used matplotlib.pyplot and seaborn)
+
+
 	. Countplot
 	. Pie Chart
 	. Bar graph
@@ -31,6 +35,8 @@ Graph which are used : (plotting i have used matplotlib.pyplot and seaborn)
 	. Box Plot
 
 Conclusion : 
+
+
 	. Dataset has 918 peoples data with there medical health.
 	. 508 people are suffering from heart Heart Disease with 458 are Male
 		and 50 female.
@@ -40,6 +46,8 @@ Conclusion :
 	. There is a positive corrilation with respect to Age and ST_Slope.
 
 Result : 
+
+
 	. Most of the male suffer from heart disease.
 	. Even if you have normal ECG you can still suffer from heart disease.
 	. More then half of the people have ASY Chest pain type.
